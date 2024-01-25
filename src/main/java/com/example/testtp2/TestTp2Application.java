@@ -11,6 +11,9 @@ public class TestTp2Application {
         SpringApplication.run(TestTp2Application.class, args);
 
         System.out.println("Ceci est un premier message.");
+
+        System.out.println("Ceci est un deuxieme message.");
+
     }
 
 
