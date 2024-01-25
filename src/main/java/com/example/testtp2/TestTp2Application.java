@@ -15,6 +15,7 @@ public class TestTp2Application {
         System.out.println("Ceci est un deuxieme message.");
 
         System.out.println("test1");
+        System.out.println("test2");
 
     }
 
