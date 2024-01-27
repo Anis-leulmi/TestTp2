@@ -10,13 +10,6 @@ public class TestTp2Application {
     public static void main(String[] args) {
         SpringApplication.run(TestTp2Application.class, args);
 
-        System.out.println("Ceci est un premier message.");
-
-        System.out.println("Ceci est un deuxieme message.");
-
-        System.out.println("test1");
-        System.out.println("test2");
-
 
     }
 
